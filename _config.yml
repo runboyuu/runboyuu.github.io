@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Runbo Yu"
   avatar           : "images/profile.png"
-  bio              : "Trustworthy Machine Learning"
+  bio              : "Deep Learning Theory"
   location         : "Hong Kong"
   employer         :
   pubmed           : 

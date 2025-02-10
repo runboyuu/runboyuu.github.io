@@ -1,7 +1,1 @@
-👋 Hi! I am Runbo Yu (余润博), a sophomore undergraduate in [City University of Hong Kong](https://www.cityu.edu.hk/). I major in Computer Science and minor in Mathematics. In 2024 Summer, I visited UC Berkeley.  
-
-🔬 Currently, I am conducting research on **Trustworthy Machine Learning**. Specifically, my interest includes **Differential privacy** and **LLM Safety**. In the future, I am open to challenge interesting problems like LLM mechanism and Deep Learning Interpretation.
-
-🌟 I am very happy to start my scientific research journey under the guidance of Professor [Chen Liu](https://www.cs.cityu.edu.hk/~cliu644/HomePage/index.html). 
-
-✋ I am actively seeking for research intern opportunity in 2025 Summer. 
+Hi! I am Runbo Yu (余润博), a sophomore undergraduate in [City University of Hong Kong](https://www.cityu.edu.hk/). I major in Computer Science and minor in Mathematics. In 2024 Summer, I visited UC Berkeley. Currently, My research focus on Statistical Learning Theory, especially problems on generalization and deep learning interpretation. If you share a similar research interest with me, please feel free to contact me! 

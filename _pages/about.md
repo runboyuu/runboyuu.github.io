@@ -27,7 +27,7 @@ redirect_from:
 
 <!-- {% include_relative includes/pub.md %} -->
 
-{% include_relative includes/courses.md %}
+<!-- {% include_relative includes/courses.md %} -->
 
 {% include_relative includes/awards.md %}
 

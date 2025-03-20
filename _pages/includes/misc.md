@@ -1,6 +1,2 @@
 # Misc
-I like playing video games. eg. Baldur's Gate 3, Dark Souls, Witcher 3. I am learning basic machine learning related game development on hugging face.
-
-Also, I enjoy watching animations. if you are a fan of EVA, Attack on Titan or Death Note, please feel free to chat with me. Moreover, Soccer is my favorite sport and I am a fan of Real Madrid. 
-
-Welcome to follow my [Zhihu](https://www.zhihu.com/people/epizsj). I may share my paper reading notes or something interesting in the future. 
+As a soccer enthusiast, I have a profound passion for the sport, whether I'm on the field as a player or in the stands as a fan. Currently, I'm immersing myself in applying machine learning models to soccer match data analysis. One of my aspiration is to develop specialized software that leverages these technologies, allowing me to make my own contribution to this beautiful game.
